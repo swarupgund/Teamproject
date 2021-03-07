@@ -16,6 +16,6 @@ class Bank_Account:
     def display(self):
         print("Net available balance:",self.balance)
 s =Bank_Account()
-s.deposit()
-s.withdraw()
-s.display()
+s.Deposit()
+s.Withdraw()
+s.Display()
